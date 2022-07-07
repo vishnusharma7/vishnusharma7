@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishnu Sharma</h1>
 <h1 align="center">A passionate Web developer and Coder</h1>
-<img align="right" alt="Coding" width="400" src="https://icomputercoding.in/wp-content/uploads/2022/02/95116-coder.gif">
+<img align="right" alt="Coding" width="400" src="https://cheesyworks.com/assets/img/g22.gif">
 
 - 🔭 I’m currently in B.Tech 3rd Year'IT
 
