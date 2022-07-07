@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishnu Sharma</h1>
-<h1 align="center">A passionate Web developer and Coder</h1>
+<h2 align="center">A passionate Web developer and Coder</h2>
 <img align="right" alt="Coding" width="400" src="https://cheesyworks.com/assets/img/g22.gif">
 
 - 🔭 I’m currently in B.Tech 3rd Year'IT
@@ -7,6 +7,12 @@
 - 🌱 I’m currently learning **Core Java, react, Tailwind CSS, yarn etc**
 
 - 💬 Ask me about **Java,Web Dev**
+
+- 👀 I’m interested in Web development
+
+- 💞️ I’m looking to collaborate on github
+
+- 📫 How to reach me vs510514@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
