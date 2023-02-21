@@ -27,4 +27,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnusharma7&theme=merko&show_icons=true)
 
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=vishnusharma7&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
