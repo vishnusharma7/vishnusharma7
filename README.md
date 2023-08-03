@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Bishnu Sharma</h1>
 <h2 align="center">A passionate Web developer and Coder</h2>
-<img align="right" alt="Coding" width="400" src="https://cheesyworks.com/assets/img/g22.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-- 🔭 I’m currently in B.Tech 3rd Year'IT
+- 🔭 I’m currently in B.Tech Final Year'IT
 
-- 🌱 I’m currently learning **Core Java, react, Tailwind CSS, yarn etc**
+- 🌱 I’m currently learning **Core Java,Frontend Design, react, Tailwind CSS, yarn etc**
 
-- 💬 Ask me about **Java,Web Dev**
+- 💬 Ask me about **Java,Web Dev,Freelance,Time Management**
 
-- 👀 I’m interested in Web development
+- 👀 I’m interested in **Web development**
 
 - 💞️ I’m looking to collaborate on github
 
