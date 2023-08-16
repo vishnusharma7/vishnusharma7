@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bishnu Sharma</h1>
-<h2 align="center">A passionate Web developer and Coder</h2>
+<h2 align="center">⚒️ Building Worksetu • An AI-Integrated Chat Application | Freelancer | Ex - Frontend Developer @techamico.in | 🚀 Worked with 2+ startups</h2>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
 - 🔭 I’m currently in B.Tech Final Year'IT
