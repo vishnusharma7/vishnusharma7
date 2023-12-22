@@ -16,7 +16,7 @@
 
 ## Experience
 
-**Frontend Developer** - Codebell
+**Software Developer** - Codebell
 * Designed clean and intuitive frontend for the Codebell main page, focusing on visually appealing layout and seamless navigation.
 * Currently working on enhancing the Worksetu frontend, collaborating closely with the team to implement new features and improve user experience.
 * 2023 - Present
