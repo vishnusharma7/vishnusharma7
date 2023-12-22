@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **.NET, Spline etc**
 
-- 💬 Ask me about **Java,Web Dev,Freelance,Frontend Design, react, Tailwind CSS,.NET **
+- 💬 Ask me about **Web Dev,Freelance,Fluid Responsive, react,Java, Tailwind CSS,.NET**
 
-- 👀 I’m interested in **Full Stack development **
+- 👀 I’m interested in **Full Stack development**
 
 - 💞️ I’m looking to collaborate on github
 
