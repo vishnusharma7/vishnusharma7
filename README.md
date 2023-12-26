@@ -2,17 +2,17 @@
 <h2 align="center">⚒️ Building Codebell • An Revolutionize Communication | Freelancer | Ex - Frontend Developer @techamico.in | 🚀 Worked with 2+ startups</h2>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
 
-- 🔭 I’m currently in B.Tech Final Year'IT
+-  I’m currently in B.Tech Final Year'IT
 
-- 🌱 I’m currently learning **.NET, Spline etc**
+-  I’m currently learning **.NET, Spline etc**
 
-- 💬 Ask me about **Web Dev,Freelance,Fluid Responsive, react,Java, Tailwind CSS,.NET**
+-  Ask me about **Web Dev,Freelance,Fluid Responsive, react,Java, Tailwind CSS,.NET**
 
-- 👀 I’m interested in **Full Stack development**
+-  I’m interested in **Full Stack development**
 
-- 💞️ I’m looking to collaborate on github
+-  I’m looking to collaborate on github
 
-- 📫 How to reach me vs510514@gmail.com
+-  How to reach me vs510514@gmail.com
 
 ## Experience
 
