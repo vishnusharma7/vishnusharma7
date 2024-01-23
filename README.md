@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bishnu Sharma</h1>
 <h2 align="center">⚒️ Building Codebell • An Revolutionize Communication | Freelancer | Ex - Frontend Developer @techamico.in | 🚀 Worked with 2+ startups</h2>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif">
+
 
 -  I’m currently working as a Software Developer at **Codebell**, B.Tech Final Year'IT.
 
