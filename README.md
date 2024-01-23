@@ -4,15 +4,15 @@
 
 -  I’m currently working as a Software Developer at **Codebell**, B.Tech Final Year'IT.
 
--  I’m currently learning **.NET, Spline etc**
+-  I’m currently learning **.NET, Spline etc**.
 
 -  Ask me about **Web Dev,Freelance,Fluid Responsive, react,Java, Tailwind CSS,.NET**
 
--  I’m interested in **Full Stack development**
+-  I’m interested in **Full Stack development**, **UI Design**, **Mobile App Developement**.
 
--  I’m looking to collaborate on github
+-  I’m looking to collaborate on github.
 
--  How to reach me vs510514@gmail.com
+-  How to reach me vs510514@gmail.com.
 
 ## Experience
 
