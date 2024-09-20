@@ -1,32 +1,37 @@
 <h1 align="center">Hi 👋, I'm Bishnu Sharma</h1>
-<h3 align="center">Building Codebell • An Revolutionize Communication | Freelancer | Ex - Frontend Developer @techamico.in | 🚀 Worked with 2+ startups</h3>
-
-
--  I’m currently working as a Software Developer at **Codebell**, B.Tech Final Year'IT.
-
--  I’m currently learning **.NET, Spline etc**.
-
--  Ask me about **Web Dev,Freelance,Fluid Responsive, react,Java, Tailwind CSS,.NET**
-
--  I’m interested in **Full Stack development**, **UI Design**, **Mobile App Developement**.
-
--  I’m looking to collaborate on github.
-
--  How to reach me vs510514@gmail.com.
+<h3 align="center">Software Developer Codebell • An Revolutionize Communication | Freelancer | Ex - Frontend Developer @techamico.in | 🚀 Worked with 2+ startups</h3>
 
 ## Experience
+🟩 **Software Developer** - Codebell   
+📅 **2023 - Present**  
+- Designed an intuitive frontend for the Codebell main page.  
+- Currently working on enhancing the Worksetu frontend, adding new features, and improving user experience.  
 
-**Software Developer** - Codebell
-* Designed clean and intuitive frontend for the Codebell main page, focusing on visually appealing layout and seamless navigation.
-* Currently working on enhancing the Worksetu frontend, collaborating closely with the team to implement new features and improve user experience.
-* 2023 - Present
+---
 
-**Web Developer** - All About IT Services
-* Added captivating animations to Techamico's main page, enhancing user experience with dynamic visual elements.
-* Developed the frontend of a matrimonial site with a responsive design, comprehensive form, and user-friendly interface similar to platforms like Shaadi.com.
-* Jan 2023 - Jun 2023
+🟩 **Frontend Engineer** - TAKNIIK  
+📅 **Jan 2024 - Present**  
+- Designing modern, user-friendly websites tailored to client needs.  
+- Utilizing diverse technology stacks including React.js and Node.js for seamless interaction.  
+- Focusing on enhanced user experience and performance.
 
-  
+---
+
+🟩 **React Developer** - TechCreare Software   
+📅 **Dec 2023 - Present**  
+- Specializing in client website development using React and Tailwind CSS.  
+- Creating dynamic, sleek designs and interfaces to deliver top-notch digital experiences.  
+
+---
+
+🟥 **Web Developer** - All About IT Services  
+📅 **Jan 2023 - Jun 2023**  
+- Added captivating animations to Techamico's main page, improving user engagement.  
+- Developed the frontend of a responsive matrimonial site with comprehensive forms and a user-friendly interface similar to Shaadi.com.
+
+---
+
+
 <h3 >Connect with me:</h3>
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30">](https://www.linkedin.com/in/vishnu-sharma-5091aa1b5/) &nbsp;&nbsp;
