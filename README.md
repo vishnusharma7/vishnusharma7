@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bishnu Sharma</h1>
-<h3 align="center">Software Developer Codebell • An Revolutionize Communication | Freelancer | Ex - Frontend Developer @techamico.in | 🚀 Worked with 2+ startups</h3>
 
 ## Experience
 🟩 **Software Developer** - Codebell   
