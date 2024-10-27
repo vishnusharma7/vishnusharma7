@@ -17,7 +17,7 @@
 
 ---
 
-🟩 **React Developer** - TechCreare Software   
+🟥 **React Developer** - TechCreare Software   
 📅 **Dec 2023 - Present**  
 - Specializing in client website development using React and Tailwind CSS.  
 - Creating dynamic, sleek designs and interfaces to deliver top-notch digital experiences.  
