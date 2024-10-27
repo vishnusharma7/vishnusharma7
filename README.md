@@ -2,14 +2,12 @@
 
 ## Experience
 🟩 **Software Developer** - Codebell   
-📅 **2023 - Present**  
 - Designed an intuitive frontend for the Codebell main page.  
 - Currently working on enhancing the Worksetu frontend, adding new features, and improving user experience.  
 
 ---
 
 🟩 **Frontend Engineer** - TAKNIIK  
-📅 **Jan 2024 - Present**  
 - Designing modern, user-friendly websites tailored to client needs.  
 - Utilizing diverse technology stacks including React.js and Node.js for seamless interaction.  
 - Focusing on enhanced user experience and performance.
@@ -17,14 +15,12 @@
 ---
 
 🟥 **React Developer** - TechCreare Software   
-📅 **Dec 2023 - Present**  
 - Specializing in client website development using React and Tailwind CSS.  
 - Creating dynamic, sleek designs and interfaces to deliver top-notch digital experiences.  
 
 ---
 
 🟥 **Web Developer** - All About IT Services  
-📅 **Jan 2023 - Jun 2023**  
 - Added captivating animations to Techamico's main page, improving user engagement.  
 - Developed the frontend of a responsive matrimonial site with comprehensive forms and a user-friendly interface similar to Shaadi.com.
 
